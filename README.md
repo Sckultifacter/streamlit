@@ -1,2 +1,2 @@
 # streamlit
-#Trying deploying projects using strealit
+Trying deploying projects using strealit
